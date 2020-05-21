@@ -1,0 +1,5 @@
+C:\Users\diacu\Desktop\Recu P1\Radoeff.Diacu.2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\diacu\Desktop\Recu P1\Radoeff.Diacu.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\diacu\Desktop\Recu P1\Radoeff.Diacu.2C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\diacu\Desktop\Recu P1\Radoeff.Diacu.2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\diacu\Desktop\Recu P1\Radoeff.Diacu.2C\Entidades\obj\Debug\Entidades.pdb
